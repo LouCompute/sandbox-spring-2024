@@ -1,4 +1,4 @@
-package algorithm;
+package org.example.sandbox.algorithm;
 
 public class FibonacciNumbers {
 
