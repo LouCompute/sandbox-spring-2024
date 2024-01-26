@@ -1,4 +1,4 @@
-package unittests;
+package org.example.sandbox.unittests;
 
 import java.util.Arrays;
 

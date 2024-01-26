@@ -1,5 +1,6 @@
 package unittests;
 
+import org.example.sandbox.unittests.Calcuator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
